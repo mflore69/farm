@@ -273,9 +273,9 @@ main{
             height: auto;
         }
         figcaption {
-            padding: 10px;
-            font-weight: bold;
-            color: black;
+            position:relative;
+		top:-30;
+		font-weight:bold;
         }
   }
   footer{
